@@ -10,7 +10,7 @@ easy to use
 ```
 ## What do I have to do to use it?
 
-- You need node.js 16.9.1 or later (https://nodejs.org/en/blog/release/v16.9.1/) 
+- You need Python3.9 or later (https://www.python.org/downloads/) 
 
 
 just run the "Start.bat"
