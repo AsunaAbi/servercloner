@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <h1>Simple Nuke Bot</h1>
+    <h1>Simple Cloner</h1>
   </p>
 </div>
 
