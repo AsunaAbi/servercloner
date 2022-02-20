@@ -12,13 +12,9 @@ easy to use
 
 - You need node.js 16.9.1 or later (https://nodejs.org/en/blog/release/v16.9.1/) 
 
-1. Open the "config.json" file and fill in the data
 
-![](https://media.discordapp.net/attachments/911607378942783500/926416254762364998/unknown.png)
+just run the "Start.bat"
 
-2. Run the "Start.bat"
-
-![](https://media.discordapp.net/attachments/911607378942783500/926415682273439764/unknown.png)
 
 - All important things are downloaded automatically
 
