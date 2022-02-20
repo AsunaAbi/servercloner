@@ -66,9 +66,9 @@ echo         [[36m4[0m] [31mDiscord[0m
 
 set /p key=key : 
 if %key%==1 goto Server-Cloner
-if %key%==2 goto youtube
-if %key%==3 goto tiktok
-if %key%==4 goto discord
+if %key%==2 goto Youtube
+if %key%==3 goto Tiktok
+if %key%==4 goto Discord
 
 :Server-Cloner
 cls
@@ -89,7 +89,7 @@ start https://www.tiktok.com/@yt_flyteam
 cls
 goto MENU
 
-:Tiktok
+:Discord
 cls
 start https://discord.gg/flyteam
 cls
