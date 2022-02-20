@@ -10,7 +10,7 @@ easy to use
 ```
 ## What do I have to do to use it?
 
-- You need Python3.9 or later (https://www.python.org/downloads/) 
+- You need Python3.9!!! (https://www.python.org/downloads/) 
 
 
 - Have fun
