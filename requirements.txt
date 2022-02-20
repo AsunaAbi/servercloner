@@ -18,3 +18,4 @@ pypresence
 platform
 colorama
 asyncio
+time
