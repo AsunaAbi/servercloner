@@ -6,10 +6,11 @@ os
 discord
 asynico
 colorama
-patform
+platform
 Clone
 Fore
 init 
 Style
 discord.js
 psutil
+Presence
