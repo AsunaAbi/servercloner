@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <h1>Simple Cloner</h1>
+    <h1>Simple Nuke Bot</h1>
   </p>
 </div>
 
@@ -10,11 +10,15 @@ easy to use
 ```
 ## What do I have to do to use it?
 
-- You need Python3.9 or later (https://www.python.org/downloads/) 
+- You need node.js 16.9.1 or later (https://nodejs.org/en/blog/release/v16.9.1/) 
 
+1. Open the "config.json" file and fill in the data
 
-just run the "Start.bat"
+![](https://media.discordapp.net/attachments/911607378942783500/926416254762364998/unknown.png)
 
+2. Run the "Start.bat"
+
+![](https://media.discordapp.net/attachments/911607378942783500/926415682273439764/unknown.png)
 
 - All important things are downloaded automatically
 
