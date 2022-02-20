@@ -12,3 +12,4 @@ Fore
 init 
 Style
 discord.js
+psutil
