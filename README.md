@@ -12,7 +12,7 @@ easy to use
 
 - You need Python3.9!!! (https://www.python.org/downloads/) 
 
-(if it does not work try "python main.py" or "python3 main.py" in your terminal and also check that you have python on the pc "3.9!!")
+(if it does not work install some req manuelly and also check that you have python on the pc "3.9!!")
 - Have fun
 ## join flyteam 
 
