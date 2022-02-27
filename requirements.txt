@@ -1,8 +1,5 @@
 psutil
 pypresence
-time
-sys
-os
 discord
 asynico
 colorama
