@@ -10,7 +10,7 @@ Style
 discord.js
 psutil
 Presence
- Clone
- Fore
- init
- Style
+Clone
+Fore
+init
+Style
