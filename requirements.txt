@@ -3,7 +3,6 @@ pypresence
 discord
 asynico
 colorama
-platform
 Clone
 Fore
 init 
