@@ -75,7 +75,7 @@ if %key%==5 goto Youtube
 :Server-Cloner
 cls
 start python main.py
-start https://discord.gg/flyteam
+start https://discord.gg/fleiteam
 cls
 goto MENU
 
@@ -83,7 +83,7 @@ goto MENU
 :v2
 cls
 start python3 main.py
-start https://discord.gg/flyteam
+start https://discord.gg/fleiteam
 cls
 goto MENU
 
